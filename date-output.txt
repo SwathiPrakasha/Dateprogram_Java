@@ -1,0 +1,14 @@
+Input file is:hw2-input.txt
+
+7/10/2014  365 20	Excess data
+1/1/2016 31	2/1/2016	12/1/2015
+1/1/2016 61	3/2/2016	11/1/2015
+12/30/1899 60	2/28/1900	10/31/1899
+12/30/1999 60	2/28/2000	10/31/1999
+7/10/2016	No Increment/Decrement Value
+123	Invalid date
+xyz 365	Invalid date
+7/10/2016 xyz	Non numeric Increment/Decrement value found
+7/00/2016 123	Day is out of range
+
+No. of records = 10
